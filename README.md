@@ -1,7 +1,5 @@
 # A simple Mediawiki bundle
 
-THIS IS A TEST.
-
 This bundle deploys a Mediawiki with MySQL, for a total of two units.
 
 # Usage
