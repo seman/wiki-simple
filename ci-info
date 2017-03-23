@@ -1,0 +1,14 @@
+bundle:
+  name: wiki-simple
+  namespace: sseman
+  release: false
+  to-channel: beta
+charm-upgrade:
+  wiki:
+    from-channel: edge
+    release: false
+    to-channel: beta
+  mysql:
+    from-channel: edge
+    release: false
+    to-channel: beta
